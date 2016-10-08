@@ -157,15 +157,12 @@ bar {
 }
 
 # Set screens
-#exec xrandr --output HDMI-0 --rotate left --right-of DP-1
-
 exec /home/luke/.screenlayout/xranderlayou.sh
 
 #Wallpaper set -fill
-exec_always feh --bg-fill /home/luke/Wallapapers/wallpaper1.png
+exec_always feh --bg-fill /home/luke/wallapapers/wallpaper1.png
 
-dsfds
-# i3 gaps shit
+#i3 gaps shit
 gaps inner 5
 gaps outer 5
 smart_gaps on
