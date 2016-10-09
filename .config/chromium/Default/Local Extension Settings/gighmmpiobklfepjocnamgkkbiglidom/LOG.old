@@ -1,6 +1,44 @@
-2016/10/09-20:33:55.108 617 Reusing MANIFEST /home/luke/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2016/10/09-20:33:55.108 617 Recovering log #144
-2016/10/09-20:33:55.108 617 Reusing old log /home/luke/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000144.log 
-2016/10/09-20:34:56.349 1256 Level-0 table #149: started
-2016/10/09-20:34:56.375 1256 Level-0 table #149: 1792059 bytes OK
-2016/10/09-20:34:56.376 1256 Delete type=0 #144
+2016/10/10-02:28:38.107 630 Reusing MANIFEST /home/luke/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2016/10/10-02:28:38.107 630 Recovering log #195
+2016/10/10-02:28:38.134 630 Level-0 table #199: started
+2016/10/10-02:28:38.167 630 Level-0 table #199: 1794310 bytes OK
+2016/10/10-02:28:38.172 630 Delete type=0 #195
+2016/10/10-02:29:39.189 1200 Level-0 table #202: started
+2016/10/10-02:29:39.216 1200 Level-0 table #202: 1794628 bytes OK
+2016/10/10-02:29:39.217 1200 Delete type=0 #200
+2016/10/10-02:32:20.284 1200 Level-0 table #204: started
+2016/10/10-02:32:20.326 1200 Level-0 table #204: 1794309 bytes OK
+2016/10/10-02:32:20.327 1200 Delete type=0 #201
+2016/10/10-03:29:39.212 1200 Level-0 table #206: started
+2016/10/10-03:29:39.238 1200 Level-0 table #206: 1795448 bytes OK
+2016/10/10-03:29:39.239 1200 Delete type=0 #203
+2016/10/10-03:29:39.240 1200 Compacting 4@0 + 1@1 files
+2016/10/10-03:29:39.300 1200 Generated table #207@0: 7 keys, 1794819 bytes
+2016/10/10-03:29:39.300 1200 Compacted 4@0 + 1@1 files => 1794819 bytes
+2016/10/10-03:29:39.301 1200 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/10-03:29:39.301 1200 Delete type=2 #197
+2016/10/10-03:29:39.301 1200 Delete type=2 #206
+2016/10/10-03:29:39.302 1200 Delete type=2 #202
+2016/10/10-03:29:39.302 1200 Delete type=2 #204
+2016/10/10-03:29:39.303 1200 Delete type=2 #199
+2016/10/10-03:30:57.880 1200 Level-0 table #209: started
+2016/10/10-03:30:57.906 1200 Level-0 table #209: 1794310 bytes OK
+2016/10/10-03:30:57.907 1200 Delete type=0 #205
+2016/10/10-04:29:39.266 1200 Level-0 table #211: started
+2016/10/10-04:29:39.292 1200 Level-0 table #211: 1794785 bytes OK
+2016/10/10-04:29:39.293 1200 Delete type=0 #208
+2016/10/10-04:36:40.415 1200 Level-0 table #213: started
+2016/10/10-04:36:40.454 1200 Level-0 table #213: 1794311 bytes OK
+2016/10/10-04:36:40.455 1200 Delete type=0 #210
+2016/10/10-05:29:39.300 1200 Level-0 table #215: started
+2016/10/10-05:29:39.326 1200 Level-0 table #215: 1795880 bytes OK
+2016/10/10-05:29:39.329 1200 Delete type=0 #212
+2016/10/10-05:29:39.330 1200 Compacting 4@0 + 1@1 files
+2016/10/10-05:29:39.394 1200 Generated table #216@0: 7 keys, 1794818 bytes
+2016/10/10-05:29:39.394 1200 Compacted 4@0 + 1@1 files => 1794818 bytes
+2016/10/10-05:29:39.395 1200 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/10-05:29:39.395 1200 Delete type=2 #215
+2016/10/10-05:29:39.395 1200 Delete type=2 #213
+2016/10/10-05:29:39.395 1200 Delete type=2 #209
+2016/10/10-05:29:39.396 1200 Delete type=2 #211
+2016/10/10-05:29:39.396 1200 Delete type=2 #207
