@@ -1,0 +1,15 @@
+[global_config]
+  title_font = System San Fransisco Display 10
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    use_system_font = true

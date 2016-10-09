@@ -1,0 +1,14 @@
+rofi.width:		50
+rofi.padding:	300
+rofi.fullscreen: true
+rofi.fixed-num-lines: true
+rofi.bw:		0
+rofi.location:	0
+rofi.terminal:	urxvt
+rofi.lines:		10
+rofi.eh:		1
+rofi.font:		System San Fransisco Display 36
+rofi.color-window: argb:aa263238, argb:aa263238, #26a69a
+rofi.color-normal: argb:0263238, #eceff1, argb:0263238, #f4246b, #eceff1
+rofi.color-active: #fdf6e3, #268bd2, #eee8d5, #268bd2, #fdf6e3
+rofi.color-urgent: #fdf6e3, #dc322f, #eee8d5, #dc322f, #fdf6e3

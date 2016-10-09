@@ -1,0 +1,3 @@
+2016/10/09-22:32:10.431 592 Reusing MANIFEST /home/luke/.config/chromium/Default/IndexedDB/https_www.google.co.nz_0.indexeddb.leveldb/MANIFEST-000001
+2016/10/09-22:32:10.431 592 Recovering log #3
+2016/10/09-22:32:10.434 592 Reusing old log /home/luke/.config/chromium/Default/IndexedDB/https_www.google.co.nz_0.indexeddb.leveldb/000003.log 
