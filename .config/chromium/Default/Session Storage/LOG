@@ -1,36 +1,27 @@
-2016/10/10-05:35:46.886 7198 Reusing MANIFEST /home/luke/.config/chromium/Default/Session Storage/MANIFEST-000001
-2016/10/10-05:35:46.886 7198 Recovering log #117
-2016/10/10-05:35:46.886 7198 Reusing old log /home/luke/.config/chromium/Default/Session Storage/000117.log 
-2016/10/10-05:37:46.695 7868 Level-0 table #121: started
-2016/10/10-05:37:46.699 7868 Level-0 table #121: 63022 bytes OK
-2016/10/10-05:37:46.700 7868 Delete type=0 #117
-2016/10/10-05:37:46.700 7868 Compacting 4@0 + 1@1 files
-2016/10/10-05:37:46.711 7868 Generated table #122@0: 72 keys, 61509 bytes
-2016/10/10-05:37:46.711 7868 Compacted 4@0 + 1@1 files => 61509 bytes
-2016/10/10-05:37:46.712 7868 compacted to: files[ 0 1 0 0 0 0 0 ]
-2016/10/10-05:37:46.712 7868 Delete type=2 #116
-2016/10/10-05:37:46.712 7868 Delete type=2 #114
-2016/10/10-05:37:46.712 7868 Delete type=2 #121
-2016/10/10-05:37:46.712 7868 Delete type=2 #118
-2016/10/10-05:37:46.712 7868 Delete type=2 #112
-2016/10/10-05:39:54.568 7868 Level-0 table #124: started
-2016/10/10-05:39:54.572 7868 Level-0 table #124: 39205 bytes OK
-2016/10/10-05:39:54.573 7868 Delete type=0 #120
-2016/10/10-05:43:10.739 7868 Level-0 table #126: started
-2016/10/10-05:43:10.744 7868 Level-0 table #126: 96964 bytes OK
-2016/10/10-05:43:10.745 7868 Delete type=0 #123
-2016/10/10-05:43:19.807 7868 Level-0 table #128: started
-2016/10/10-05:43:19.812 7868 Level-0 table #128: 94518 bytes OK
-2016/10/10-05:43:19.814 7868 Delete type=0 #125
-2016/10/10-05:45:04.248 7868 Level-0 table #130: started
-2016/10/10-05:45:04.253 7868 Level-0 table #130: 94910 bytes OK
-2016/10/10-05:45:04.254 7868 Delete type=0 #127
-2016/10/10-05:45:04.254 7868 Compacting 4@0 + 1@1 files
-2016/10/10-05:45:04.265 7868 Generated table #131@0: 254 keys, 383591 bytes
-2016/10/10-05:45:04.265 7868 Compacted 4@0 + 1@1 files => 383591 bytes
-2016/10/10-05:45:04.266 7868 compacted to: files[ 0 1 0 0 0 0 0 ]
-2016/10/10-05:45:04.266 7868 Delete type=2 #130
-2016/10/10-05:45:04.266 7868 Delete type=2 #124
-2016/10/10-05:45:04.266 7868 Delete type=2 #126
-2016/10/10-05:45:04.266 7868 Delete type=2 #128
-2016/10/10-05:45:04.266 7868 Delete type=2 #122
+2016/10/10-07:46:50.605 1289 Reusing MANIFEST /home/luke/.config/chromium/Default/Session Storage/MANIFEST-000001
+2016/10/10-07:46:50.605 1289 Recovering log #160
+2016/10/10-07:46:50.609 1289 Reusing old log /home/luke/.config/chromium/Default/Session Storage/000160.log 
+2016/10/10-08:29:27.531 1974 Level-0 table #164: started
+2016/10/10-08:29:27.536 1974 Level-0 table #164: 106974 bytes OK
+2016/10/10-08:29:27.537 1974 Delete type=0 #160
+2016/10/10-08:34:24.031 1974 Level-0 table #166: started
+2016/10/10-08:34:24.035 1974 Level-0 table #166: 92348 bytes OK
+2016/10/10-08:34:24.036 1974 Delete type=0 #163
+2016/10/10-08:57:26.614 1974 Level-0 table #168: started
+2016/10/10-08:57:26.618 1974 Level-0 table #168: 26982 bytes OK
+2016/10/10-08:57:26.619 1974 Delete type=0 #165
+2016/10/10-08:57:26.619 1974 Compacting 4@0 + 1@1 files
+2016/10/10-08:57:26.635 1974 Generated table #169@0: 231 keys, 214256 bytes
+2016/10/10-08:57:26.635 1974 Compacted 4@0 + 1@1 files => 214256 bytes
+2016/10/10-08:57:26.636 1974 compacted to: files[ 0 1 0 0 0 0 0 ]
+2016/10/10-08:57:26.636 1974 Delete type=2 #159
+2016/10/10-08:57:26.637 1974 Delete type=2 #168
+2016/10/10-08:57:26.637 1974 Delete type=2 #164
+2016/10/10-08:57:26.637 1974 Delete type=2 #166
+2016/10/10-08:57:26.637 1974 Delete type=2 #161
+2016/10/10-08:57:32.884 1974 Level-0 table #171: started
+2016/10/10-08:57:32.889 1974 Level-0 table #171: 117434 bytes OK
+2016/10/10-08:57:32.890 1974 Delete type=0 #167
+2016/10/10-08:58:19.640 1974 Level-0 table #173: started
+2016/10/10-08:58:19.644 1974 Level-0 table #173: 91343 bytes OK
+2016/10/10-08:58:19.645 1974 Delete type=0 #170

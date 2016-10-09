@@ -166,6 +166,7 @@ client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color      
 # bar
 bar {
   	status_command i3blocks -c /home/luke/.config/i3/i3blocks.conf
+	font pango:System San Francisco Display 8
 	colors {
 		background $bg-color
 	    	separator #757575
@@ -174,7 +175,9 @@ bar {
 		inactive_workspace $inactive-bg-color $inactive-bg-color $inactive-text-color
 		urgent_workspace   $urgent-bg-color   $urgent-bg-color   $text-color
 	}
+	position top
 }
+
 # Set screens
 exec --no-startup-id /home/luke/.screenlayout/xranderlayou.sh
 
@@ -183,6 +186,9 @@ exec_always --no-startup-id feh --bg-fill '/home/luke/wallpapers/wallpaper1.png'
 
 #hide green edge borders
 hide_edge_borders both
+
+#compton (fade)
+#exec_always --no-startup-id compton
 
 #i3 gaps shit
 gaps inner 3

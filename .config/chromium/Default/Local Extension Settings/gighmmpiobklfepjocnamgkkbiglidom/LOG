@@ -1,11 +1,24 @@
-2016/10/10-05:35:46.866 7046 Reusing MANIFEST /home/luke/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2016/10/10-05:35:46.866 7046 Recovering log #214
-2016/10/10-05:35:46.876 7046 Level-0 table #218: started
-2016/10/10-05:35:46.903 7046 Level-0 table #218: 1794311 bytes OK
-2016/10/10-05:35:46.905 7046 Delete type=0 #214
-2016/10/10-05:36:48.001 7868 Level-0 table #221: started
-2016/10/10-05:36:48.025 7868 Level-0 table #221: 1794932 bytes OK
-2016/10/10-05:36:48.026 7868 Delete type=0 #219
-2016/10/10-05:37:42.686 7868 Level-0 table #223: started
-2016/10/10-05:37:42.726 7868 Level-0 table #223: 1794307 bytes OK
-2016/10/10-05:37:42.727 7868 Delete type=0 #220
+2016/10/10-07:46:50.552 1138 Reusing MANIFEST /home/luke/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2016/10/10-07:46:50.552 1138 Recovering log #232
+2016/10/10-07:46:50.552 1138 Reusing old log /home/luke/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000232.log 
+2016/10/10-07:47:51.656 1974 Level-0 table #236: started
+2016/10/10-07:47:51.681 1974 Level-0 table #236: 1795291 bytes OK
+2016/10/10-07:47:51.682 1974 Delete type=0 #232
+2016/10/10-07:47:51.683 1974 Compacting 4@0 + 1@1 files
+2016/10/10-07:47:51.741 1974 Generated table #237@0: 7 keys, 1794813 bytes
+2016/10/10-07:47:51.741 1974 Compacted 4@0 + 1@1 files => 1794813 bytes
+2016/10/10-07:47:51.742 1974 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/10-07:47:51.742 1974 Delete type=2 #236
+2016/10/10-07:47:51.742 1974 Delete type=2 #233
+2016/10/10-07:47:51.742 1974 Delete type=2 #231
+2016/10/10-07:47:51.742 1974 Delete type=2 #226
+2016/10/10-07:47:51.744 1974 Delete type=2 #228
+2016/10/10-07:48:56.820 1974 Level-0 table #239: started
+2016/10/10-07:48:56.858 1974 Level-0 table #239: 1794302 bytes OK
+2016/10/10-07:48:56.859 1974 Delete type=0 #235
+2016/10/10-08:47:51.718 1974 Level-0 table #241: started
+2016/10/10-08:47:51.758 1974 Level-0 table #241: 1795194 bytes OK
+2016/10/10-08:47:51.759 1974 Delete type=0 #238
+2016/10/10-08:56:42.653 1974 Level-0 table #243: started
+2016/10/10-08:56:42.683 1974 Level-0 table #243: 1794300 bytes OK
+2016/10/10-08:56:42.684 1974 Delete type=0 #240
