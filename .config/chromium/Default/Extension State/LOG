@@ -1,6 +1,3 @@
-2016/10/11-07:06:46.707 13629 Reusing MANIFEST /home/luke/.config/chromium/Default/Extension State/MANIFEST-000001
-2016/10/11-07:06:46.707 13629 Recovering log #4
-2016/10/11-07:06:46.723 13629 Reusing old log /home/luke/.config/chromium/Default/Extension State/000004.log 
-2016/10/11-07:14:54.539 14555 Level-0 table #8: started
-2016/10/11-07:14:54.555 14555 Level-0 table #8: 1651055 bytes OK
-2016/10/11-07:14:54.557 14555 Delete type=0 #4
+2016/10/10-23:11:33.708 1400 Reusing MANIFEST /home/luke/.config/chromium/Default/Extension State/MANIFEST-000001
+2016/10/10-23:11:33.708 1400 Recovering log #9
+2016/10/10-23:11:33.710 1400 Reusing old log /home/luke/.config/chromium/Default/Extension State/000009.log 
