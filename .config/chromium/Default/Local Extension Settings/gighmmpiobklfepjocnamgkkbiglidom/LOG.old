@@ -1,9 +1,20 @@
-2016/10/10-06:48:55.575 687 Reusing MANIFEST /home/luke/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2016/10/10-06:48:55.575 687 Recovering log #227
-2016/10/10-06:48:55.575 687 Reusing old log /home/luke/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000227.log 
-2016/10/10-06:49:56.864 1319 Level-0 table #231: started
-2016/10/10-06:49:56.889 1319 Level-0 table #231: 1794744 bytes OK
-2016/10/10-06:49:56.890 1319 Delete type=0 #227
-2016/10/10-06:51:51.692 1319 Level-0 table #233: started
-2016/10/10-06:51:51.717 1319 Level-0 table #233: 1794311 bytes OK
-2016/10/10-06:51:51.718 1319 Delete type=0 #230
+2016/10/10-20:07:29.855 725 Reusing MANIFEST /home/luke/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2016/10/10-20:07:29.855 725 Recovering log #294
+2016/10/10-20:07:29.880 725 Level-0 table #297: started
+2016/10/10-20:07:29.913 725 Level-0 table #297: 1794303 bytes OK
+2016/10/10-20:07:29.914 725 Delete type=0 #294
+2016/10/10-20:08:31.015 1506 Level-0 table #300: started
+2016/10/10-20:08:31.043 1506 Level-0 table #300: 1794948 bytes OK
+2016/10/10-20:08:31.044 1506 Delete type=0 #298
+2016/10/10-20:08:31.044 1506 Compacting 4@0 + 1@1 files
+2016/10/10-20:08:31.101 1506 Generated table #301@0: 7 keys, 1794824 bytes
+2016/10/10-20:08:31.101 1506 Compacted 4@0 + 1@1 files => 1794824 bytes
+2016/10/10-20:08:31.101 1506 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/10-20:08:31.102 1506 Delete type=2 #291
+2016/10/10-20:08:31.102 1506 Delete type=2 #293
+2016/10/10-20:08:31.102 1506 Delete type=2 #300
+2016/10/10-20:08:31.102 1506 Delete type=2 #297
+2016/10/10-20:08:31.102 1506 Delete type=2 #295
+2016/10/10-20:09:33.816 1506 Level-0 table #303: started
+2016/10/10-20:09:33.843 1506 Level-0 table #303: 1794313 bytes OK
+2016/10/10-20:09:33.844 1506 Delete type=0 #299

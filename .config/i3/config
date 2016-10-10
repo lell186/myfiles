@@ -182,7 +182,7 @@ bar {
 exec --no-startup-id /home/luke/.screenlayout/xranderlayou.sh
 
 #Wallpaper set -fill
-exec_always --no-startup-id feh --bg-fill '/home/luke/wallpapers/wallpaper1.png'
+exec_always --no-startup-id feh --bg-fill '/home/luke/wallpapers/wallpaper2.jpg'
 
 #hide green edge borders
 hide_edge_borders both
@@ -193,5 +193,5 @@ hide_edge_borders both
 #i3 gaps shit
 gaps inner 3
 gaps outer 3
-smart_gaps on
-smart_borders on
+#smart_gaps on
+#smart_borders on
